@@ -4,6 +4,7 @@ class Rushi{
 
     System.out.println("Hello Rushi");
     System.out.println("Hello Ganesh");
+    int a =5;
  }
 
 }
