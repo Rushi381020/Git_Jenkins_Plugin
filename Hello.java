@@ -6,7 +6,8 @@ class Hello{
 		
 		System.out.println("Hello Rushikesh");
 		System.out.println("Hello Akshay");
-		System.out.println("Hello Pandurang");
+		
+		
 
 	}
 
